@@ -57,7 +57,7 @@ README.md
 ```
 ---
 ## Dashboard Preview
-![HR Analytics Dashboard](Images/HR_Analytics_Dashboard.png)
+HR_Analytics_Dashboard.png
 ---
 ## Author
 Spoorthy
